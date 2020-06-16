@@ -9,6 +9,7 @@ A curated list of delightful (engineering) management resources.
 - [Dunning–Kruger effect (Wikipedia)](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
 - [Misunderstanding Dunning-Kruger](https://theness.com/neurologicablog/index.php/misunderstanding-dunning-kruger/)
 - [Lessons from Dunning-Kruger](https://theness.com/neurologicablog/index.php/lessons-from-dunning-kruger/)
+- [Founder's syndrome (Wikipedia)](https://en.wikipedia.org/wiki/Founder%27s_syndrome)
 
 ## Authors
 
