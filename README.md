@@ -19,6 +19,7 @@ A curated list of delightful (engineering) management resources.
 ## Books
 
 - [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/)
+- [High Output Management by Andrew S. Grove](https://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 
 ## One-on-ones
 
