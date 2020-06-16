@@ -10,6 +10,7 @@ A curated list of delightful (engineering) management resources.
 - [Misunderstanding Dunning-Kruger](https://theness.com/neurologicablog/index.php/misunderstanding-dunning-kruger/)
 - [Lessons from Dunning-Kruger](https://theness.com/neurologicablog/index.php/lessons-from-dunning-kruger/)
 - [Founder's syndrome (also `founderitis`) (Wikipedia) ](https://en.wikipedia.org/wiki/Founder%27s_syndrome)
+- [Parkinson's law (Wikipedia)](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 
 ## Project management
 - [Project management triangle (Wikipedia)](https://en.wikipedia.org/wiki/Project_management_triangle)
