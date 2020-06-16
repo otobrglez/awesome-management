@@ -12,11 +12,25 @@ A curated list of delightful (engineering) management resources.
 - [Founder's syndrome (also `founderitis`) (Wikipedia) ](https://en.wikipedia.org/wiki/Founder%27s_syndrome)
 - [Parkinson's law (Wikipedia)](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 
+## Personal stories
+
+- [On beeing an engineering manager (by Nick McHardy)](https://nickmchardy.com/2019/02/on-being-an-engineering-manager.html)
+
+## Books
+
+- [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/)
+
+One-on-ones
+
+- [One-on-One Meetings (A manager's guide)](https://www.friday.app/one-on-ones)
+
 ## Project management
+
 - [Project management triangle (Wikipedia)](https://en.wikipedia.org/wiki/Project_management_triangle)
   - [Trilemma (Wikipedia)](https://en.wikipedia.org/wiki/Trilemma)
 
 ## Politics
+
 - [Workplace politics (Wikipedia)](https://en.wikipedia.org/wiki/Workplace_politics)
 
 ## Authors
