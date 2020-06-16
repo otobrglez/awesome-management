@@ -20,7 +20,7 @@ A curated list of delightful (engineering) management resources.
 
 - [Become an Effective Software Engineering Manager](https://pragprog.com/titles/jsengman/)
 
-One-on-ones
+## One-on-ones
 
 - [One-on-One Meetings (A manager's guide)](https://www.friday.app/one-on-ones)
 
