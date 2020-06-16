@@ -4,11 +4,11 @@ A curated list of delightful (engineering) management resources.
 
 
 ## Concepts
-- [Peter Principle (BBC)](https://www.bbc.com/worklife/article/20200612-the-reasons-why-people-become-incompetent-at-work)
 - [Peter principle (Wikipedia)](https://en.wikipedia.org/wiki/Peter_principle)
+  - [Peter Principle (BBC)](https://www.bbc.com/worklife/article/20200612-the-reasons-why-people-become-incompetent-at-work)
 - [Dunning–Kruger effect (Wikipedia)](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-- [Misunderstanding Dunning-Kruger](https://theness.com/neurologicablog/index.php/misunderstanding-dunning-kruger/)
-- [Lessons from Dunning-Kruger](https://theness.com/neurologicablog/index.php/lessons-from-dunning-kruger/)
+  - [Misunderstanding Dunning-Kruger](https://theness.com/neurologicablog/index.php/misunderstanding-dunning-kruger/)
+  - [Lessons from Dunning-Kruger](https://theness.com/neurologicablog/index.php/lessons-from-dunning-kruger/)
 - [Founder's syndrome (also `founderitis`) (Wikipedia) ](https://en.wikipedia.org/wiki/Founder%27s_syndrome)
 - [Parkinson's law (Wikipedia)](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 
