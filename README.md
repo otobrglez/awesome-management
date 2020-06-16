@@ -11,6 +11,9 @@ A curated list of delightful (engineering) management resources.
 - [Lessons from Dunning-Kruger](https://theness.com/neurologicablog/index.php/lessons-from-dunning-kruger/)
 - [Founder's syndrome (also `founderitis`) (Wikipedia) ](https://en.wikipedia.org/wiki/Founder%27s_syndrome)
 
+## Project management
+- [Project management triangle (Wikipedia)](https://en.wikipedia.org/wiki/Project_management_triangle)
+
 ## Politics
 - [Workplace politics (Wikipedia)](https://en.wikipedia.org/wiki/Workplace_politics)
 
