@@ -13,6 +13,7 @@ A curated list of delightful (engineering) management resources.
 
 ## Project management
 - [Project management triangle (Wikipedia)](https://en.wikipedia.org/wiki/Project_management_triangle)
+  - [Trilemma (Wikipedia)](https://en.wikipedia.org/wiki/Trilemma)
 
 ## Politics
 - [Workplace politics (Wikipedia)](https://en.wikipedia.org/wiki/Workplace_politics)
